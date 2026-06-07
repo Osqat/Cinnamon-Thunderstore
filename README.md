@@ -20,4 +20,4 @@ Call it once per frame while your GUI is open.
 
 ## AI Disclosure
 
-This Thunderstore package and parts of the packaging/refactoring work were created with assistance from OpenAI tools.
+This Thunderstore package and parts of the packaging/refactoring work were created with assistance from Anthropic and OpenAI tools.
