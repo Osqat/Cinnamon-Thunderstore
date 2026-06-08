@@ -1,6 +1,6 @@
 {
     "name": "Cinnamon",
-    "version_number": "0.10.14",
+    "version_number": "0.11.0",
     "website_url": "https://github.com/Osqat/Cinnamon-Thunderstore",
     "description": "GUI library that helps mods draw interfaces without the game cursor appearing underneath them.",
     "dependencies": [
